@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Your chrome extension name",
-  "description": "Awesome chrome extension",
+  "name": "코멘토 생일 알리미",
+  "description": "코멘토 생일 알리미",
   "version": "1.0.0",
+  "permissions": ["notifications"],
   "icons": {
     "16": "icon256.png",
     "32": "icon256.png",
